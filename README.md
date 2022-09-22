@@ -14,7 +14,13 @@ Extra credit - Pacman has a constant maximum acceleration applied when you press
 
 [![Simple Particle System](https://img.youtube.com/vi/OYxAPkRnB5o/0.jpg)](https://www.youtube.com/watch?v=OYxAPkRnB5o)
 
-Extra credit - Particles are deleted when they are alround too long with each particle having a life time variable. Color is increased over time where more green is added as the particle lives on. More Red is added with every bounce.
+Extra credit - Particles are deleted when they are alround too long with each particle having a life time variable. Dead particles are reborn from the spawn point. Color is increased over time where more green is added as the particle lives on. More Red is added with every bounce.
+
+## 3. TCC Forces
+
+[![TCC Forces](https://img.youtube.com/vi/Qqsqel8n_s0/0.jpg)](https://www.youtube.com/watch?v=Qqsqel8n_s0)
+
+Extra credit - Agents have a maximum force and maximum velocity for smooth motion. The two agents slightly colliding gracefully move apart from eachother. There is a static obsitcle that the agents all successfully avoid before gracefully stopping at their goals.
 
 ## 4. Breadth First and Depth First Tree Search 
 
