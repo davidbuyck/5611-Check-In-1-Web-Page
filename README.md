@@ -16,6 +16,11 @@ Extra credit - Pacman has a constant maximum acceleration applied when you press
 
 Extra credit - I have created a new graph with a cycle that will cause an infinte loop if not handled (pictured above). I added a maximum depth of 5 and now cycles will be handled. I also added iterative deepining breadth first search where a for loop increases the max depth each iteration until the goal is reached.
 
+## 5. PRM
+
+[![Mouse Follow Pac-Man](https://img.youtube.com/vi/o7PqadMnpsw/0.jpg)](https://www.youtube.com/watch?v=o7PqadMnpsw)
+
+Extra credit - Lists of rectangles are supported. Left click still changes the goal position but you can now click and hold the right mouse button to drag rectanges and circles.
 
 No partners we used. 
 
