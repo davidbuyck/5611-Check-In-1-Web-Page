@@ -1,10 +1,10 @@
 # 5611-Check-In-1-Web-Page
 
-[View the code on Github](https://github.com/davidbuyck/5611-Check-In-1.git)
+##[View the code on Github](https://github.com/davidbuyck/5611-Check-In-1.git)
 
-Click on the images to play the YouTube videos!!!
+###Click on the images to play the YouTube videos!!!
 
-1. Mouse Follow
+##1. Mouse Follow
 
 [![Mouse Follow Pac-Man](https://img.youtube.com/vi/weyEFJS9z6c/0.jpg)](https://www.youtube.com/watch?v=weyEFJS9z6c)
 
