@@ -8,7 +8,7 @@ Click on the images to play the YouTube videos!!!
 
 [![Mouse Follow Pac-Man](https://img.youtube.com/vi/weyEFJS9z6c/0.jpg)](https://www.youtube.com/watch?v=weyEFJS9z6c)
 
-Extra credit - Pacman moves at a contstant velcity
+Extra credit - Pacman has a constant maximum acceleration applied when you press the d or h buttons to speed up Pac-Man. An image of Pac-Man is displayed where the circle was and faces the pointer at all times. And image of open mouth and closed mouth Pac-Man are interchanged at a time interval to replicate Pac-Mans bite. WAKA WAKA
 
 ## 4. Breadth First and Depth First Tree Search 
 
