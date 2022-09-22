@@ -10,6 +10,12 @@
 
 Extra credit - Pacman has a constant maximum acceleration applied when you press the d or h buttons to speed up Pac-Man. An image of Pac-Man is displayed where the circle was and faces the pointer at all times. And image of open mouth and closed mouth Pac-Man are interchanged at a time interval to replicate Pac-Mans bite. WAKA WAKA
 
+## 2. Simple Particle System
+
+[![Simple Particle System](https://img.youtube.com/vi/OYxAPkRnB5o/0.jpg)](https://www.youtube.com/watch?v=OYxAPkRnB5o)
+
+Extra credit - Particles are deleted when they are alround too long with each particle having a life time variable. Color is increased over time where more green is added as the particle lives on. More Red is added with every bounce.
+
 ## 4. Breadth First and Depth First Tree Search 
 
 ![DFSExercise](https://user-images.githubusercontent.com/47149695/191804663-4427b775-a946-4466-bddf-11f2b49a7cf2.png)
@@ -18,9 +24,9 @@ Extra credit - I have created a new graph with a cycle that will cause an infint
 
 ## 5. PRM
 
-[![Mouse Follow Pac-Man](https://img.youtube.com/vi/o7PqadMnpsw/0.jpg)](https://www.youtube.com/watch?v=o7PqadMnpsw)
+[![PRM](https://img.youtube.com/vi/o7PqadMnpsw/0.jpg)](https://www.youtube.com/watch?v=o7PqadMnpsw)
 
-Extra credit - Lists of rectangles are supported. Left click still changes the goal position but you can now click and hold the right mouse button to drag rectanges and circles.
+Extra credit - Lists of rectangles are supported with 3 added. Left click still changes the goal position but you can now click and hold the right mouse button to drag rectanges and circles.
 
 No partners we used. 
 
